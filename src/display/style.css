@@ -1,0 +1,40 @@
+.col{
+    text-align: center;
+    background-color: rgb(207, 207, 207);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+    font-size: large;
+    
+}
+input{
+    border-style: none;
+    padding: 15px;
+    margin: 15px;
+}
+
+select{
+    border-style: none;
+    padding: 12px;
+}
+
+#button{
+    background-color:#ce906c;
+    color: white;
+}
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+table, td ,th {
+    border: 1px solid;
+}
+table,th{
+    background-color: #ce906c;
+    color: white;
+}
+table,td{
+    background-color: #f5f5f5;
+    color: #000;
+}
